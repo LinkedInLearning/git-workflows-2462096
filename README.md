@@ -22,9 +22,9 @@ To resolve this issue:
 
 ## Installing
 1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
+	- Git
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+3. To complete the course, you'll also need to setup a GitHub account and have permissions configured on your local workstation to push to the repositories within the account.
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
